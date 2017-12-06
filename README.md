@@ -3,10 +3,13 @@
 ### Coin Information
 
 Algorithm                  : Scrypt
-Type                        : PoW/PoS
-Coin name                : ITITANIUMCOIN
-Coin abbreviation    :  ITC
-Address letter          : T
+
+Type                       : PoW/PoS
+
+Coin name                 : ITITANIUMCOIN
+
+Coin abbreviation         :  ITC
+Address letter            : T
 RPC port                   : 27040
 P2P port                   : 27039
 Block reward           : 75 coins
