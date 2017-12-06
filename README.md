@@ -72,7 +72,7 @@ labeled 'stale'.
 
 ### Website : https://www.ititaniumcoin.com
 
-In Your futurexcrypto.conf file just at this line
+In Your ititaniumcoin.conf file just at this line
 
 - addnode=122.175.85.234
 - addnode=128.199.207.95
