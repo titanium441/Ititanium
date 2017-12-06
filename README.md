@@ -9,18 +9,31 @@ Type                       : PoW/PoS
 Coin name                 : ITITANIUMCOIN
 
 Coin abbreviation         :  ITC
+
 Address letter            : T
+
 RPC port                   : 27040
+
 P2P port                   : 27039
+
 Block reward           : 75 coins
+
 Total coin supply     : 38414634 coins
+
 Premine percent     : 18%
+
 Premine amount     : 6914634 coins
+
 PoS percentage      : 100% per year
+
 Last PoW block       : 10000
+
 Coinbase maturity : 20 blocks
+
 Target spacing       : 64 seconds
+
 Target timespan    : 1 block
+
 Transaction confirmations : 3 blocks
 
 
