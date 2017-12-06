@@ -37,9 +37,6 @@ Target timespan    : 1 block
 Transaction confirmations : 3 blocks
 
 
-
-
-
 ITITANIUMCOIN development tree
 
 ITITANIUMCOIN is a PoS-based cryptocurrency.
@@ -71,3 +68,8 @@ in this manner will have their corresponding issue labeled 'stagnant'.
 Issues with no commits will be given a similar warning, and closed after
 15 days from their last activity. Issues closed in this manner will be 
 labeled 'stale'.
+
+
+### Website : https://www.ititaniumcoin.com
+
+
