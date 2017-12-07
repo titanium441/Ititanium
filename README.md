@@ -1,3 +1,4 @@
+![BATA](http://ititaniumcoin.com/img/logolarge.png)
 
 
 ### Coin Information
